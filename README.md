@@ -15,7 +15,7 @@ Concentration    [*         ] <br />
 
 Pour la phase de la modification le joueur utilise l’instruction suivante :<br />
     -A +B n	 (*)<br />
-                > A : caractéristique à diminuer<br />
+                A : caractéristique à diminuer<br />
     		B : caractéristique à augmenter<br />
 		N : la valeur de la modification<br />
 

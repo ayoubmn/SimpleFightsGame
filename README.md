@@ -6,11 +6,11 @@ le projet est un jeu de combat simple basée sur l'initialisation de la force du
 Le programme commence par demander le nom et le type du personnage   puis il appel la classe Combattant pour le construire on se basant sur les critères par default qui correspond à la condition mentionner dans le sujet
 ##	modification des caractéristiques des personnages
 Les caractéristique des personnages sont guidés par plusieurs conditions qui dépend du type de personnage ce qui rend la tache de les remplir par le joueur très difficile  pour cela on a décidé de donner des valeurs par default a chaque type de combattant au construction puis on donne au joueur la possibilité de les modifier d’une façons plus facile, d’abord on affichant les caractéristiques sous forme d’un showStats comme l’exemple ci-dessous :
-> Guerrier: 1er combattant
-Force 		     [****      ]
-Dextérité   	 [***       ]
-Intelligence 	 [**        ]
-Concentration  [*         ]
+> Guerrier: 1er combattant <br />
+Force 	         [****      ] <br />
+Dextérité   	 [***       ] <br />
+Intelligence 	 [**        ] <br />
+Concentration    [*         ] <br />
 Pour la phase de la modification le joueur utilise l’instruction suivante :
     -A +B n	 (*)
                 A : caractéristique à diminuer
